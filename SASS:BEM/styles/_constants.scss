@@ -1,0 +1,9 @@
+$primarycolor : #97d279;
+$secondarycolor : #c0eea9;
+$standardpadding : 20px;
+
+@mixin text{
+    letter-spacing: 1px;
+    line-height: 1.4em;
+
+}
